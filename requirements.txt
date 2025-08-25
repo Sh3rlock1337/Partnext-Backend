@@ -1,0 +1,10 @@
+Django==4.2.16
+djangorestframework
+django-cors-headers
+django-allauth
+django-oauth-toolkit
+django-ratelimit
+google-auth
+PyJWT
+requests
+djangorestframework-simplejwt

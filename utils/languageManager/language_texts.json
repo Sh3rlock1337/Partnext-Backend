@@ -1,0 +1,90 @@
+{
+    "de": {
+        "success_login": "Erfolgreich eingeloggt",
+        "password_reset_send": "Passwort zurücksetzen Link wurde an Ihre E-Mail gesendet",
+        "password_reset_success": "Passwort erfolgreich zurückgesetzt",
+
+        "email_otp_required": "E-Mail Code ist erforderlich",
+        "email_top_numberic_error": "E-Mail-Code muss numerisch sein",
+        "email_successful_send": "E-Mail erfolgreich gesendet",
+        "email_successful_confirmed": "E-Mail erfolgreich bestätigt",
+        "email_invalid_otp": "Ungültiger E-Mail-Code",
+        "email_already_confirmed": "E-Mail wurde bereits bestätigt",
+        "email_not_verified": "E-Mail wurde noch nicht bestätigt",
+
+        "company_not_added": "Unternehmen nicht hinzugefügt",
+
+        "create_company_you_already_have": "Sie haben bereits ein Unternehmen erstellt",
+        "company_created_successfully": "Unternehmen erfolgreich erstellt",
+        "company_create_no_permission": "Sie haben keine Berechtigung, ein Unternehmen zu erstellen",
+        "company_updated_successfully": "Unternehmen erfolgreich aktualisiert",
+        "company_not_found": "Unternehmen nicht gefunden",
+        "company_update_no_permission": "Sie haben keine Berechtigung, das Unternehmen zu aktualisieren",
+        "company_blocked": "Unternehmen ist blockiert, bitte kontaktieren Sie den Support",
+        "company_invite_no_permission": "Sie haben keine Berechtigung, Mitarbeiter einzuladen",
+        "company_admin_unblocked": "Unternehmen ist freigeschaltet",
+        "company_admin_blocked": "Unternehmen ist blockiert",
+        "company_already_added": "Unternehmen bereits hinzugefügt",
+
+        "company_invite_no_email": "Bitte geben Sie eine E-Mail-Adresse ein, um Mitarbeiter einzuladen",
+        "company_invite_no_self": "Sie können sich nicht selbst einladen",
+        "company_invite_already_sent": "Einladung bereits gesendet",
+
+        "company_exmembers_deleted": "Benutzer erfolgreich gelöscht",
+        "company_exmembers_not_found": "Benutzer nicht gefunden",
+
+        "company_user_role_change_success": "Benutzerrolle erfolgreich geändert",
+        "company_user_activated": "Benutzer erfolgreich aktiviert",
+        "company_user_deactivated" : "Benutzer erfolgreich deaktiviert",
+        "company_user_kicked": "Benutzer erfolgreich entfernt",
+
+        "partner_blocked": "Partner ist blockiert",
+
+        "user_not_found": "Benutzer nicht gefunden",
+        "users_company_not_found": "Benutzerunternehmen nicht gefunden"
+    },
+    "en": {
+        "success_login": "Successfully logged in",
+        "password_reset_send": "Password reset link has been sent to your email",
+        "password_reset_success": "Password reset successfully",
+
+        "email_otp_required": "Email code is required",
+        "email_top_numberic_error": "Email code must be numeric",
+        "email_successful_send": "Email successfully sent",
+        "email_successful_confirmed": "Email successfully confirmed",
+        "email_invalid_otp": "Invalid email code",
+        "email_already_confirmed": "Email has already been confirmed",
+        "email_not_verified": "Email has not been confirmed yet",
+
+
+
+        "create_company_you_already_have": "You have already created a company",
+        "company_created_successfully": "Company created successfully",
+        "company_create_no_permission": "You do not have permission to create a company",
+        "company_updated_successfully": "Company updated successfully",
+        "company_not_found": "Company not found",
+        "company_update_no_permission": "You do not have permission to update the company",
+        "company_blocked": "Company is blocked, please contact support",
+        "company_invite_no_permission": "You do not have permission to invite employees",
+        "company_invite_no_email": "Please provide email to invite",
+        "company_admin_unblocked": "Company is unblocked",
+        "company_admin_blocked": "Company is blocked",
+        "company_already_added": "Company already added",
+        "company_invite_no_self": "You can not invite yourself",
+        "company_invite_already_sent": "Invitation already sent",
+        "company_not_added": "Company not added",
+        "company_exmembers_not_found": "Deleted user not found",
+        "company_exmembers_deleted": "Deleted user successfully",
+
+        "company_user_role_change_success": "User role changed successfully",
+        "company_user_deactivated": "User already deactivated",
+        "company_user_activated": "User already activated",
+
+        "partner_blocked": "Partner is blocked",
+
+        "users_company_not_found": "User's company not found",
+        "company_user_kicked": "User removed successfully",
+        "user_not_found": "User not found"
+
+    }
+}
